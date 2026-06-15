@@ -217,13 +217,3 @@ Tests cover: admin access control, issuer authorization, certificate issuance, r
 3. Instantly see: ✅ VALID / 🚫 REVOKED / ⏰ EXPIRED + full certificate details
 
 ---
-
-## 🤝 Contributing
-
-Pull requests are welcome! For major changes please open an issue first.
-
----
-
-## 📄 License
-
-MIT
